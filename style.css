@@ -1,0 +1,9 @@
+:root {
+  --Main-BG: hsl(233, 47%, 7%);
+  --Card-BG: hsl(244, 38%, 16%);
+  --Accent: hsl(277, 64%, 61%);
+
+  --Main-Heading: hsl(0, 0%, 100%);
+  --Main-Paragraph: hsla(0, 0%, 100%, 0.75);
+  --Stats-Heading: hsla(0, 0%, 100%, 0.6);
+}
